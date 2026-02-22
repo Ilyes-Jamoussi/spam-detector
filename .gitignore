@@ -13,9 +13,7 @@ data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
-# Models
-models/*.pth
-models/*.pkl
+# Models (tracked by Git LFS)
 !models/.gitkeep
 
 # Jupyter
